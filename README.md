@@ -12,12 +12,12 @@ A platform utilizing satellite data to connect with a fleet of drones, while fac
 
 ### Concept
 
-![](images\Kerberos-diagram.png "Kerberos Diagram")
+![](./images/Kerberos-diagram.png "Kerberos Diagram")
 
 ### Key features
 
-![](images\Kerberos-key-features.png "Kerberos - Key Features")
+![](./images/Kerberos-key-features.png "Kerberos - Key Features")
 
 #### Drone Network Proposal
 
-![](images\Kerberos-drone-network.png "Drone Network Proposal")
+![](./images/Kerberos-drone-network.png "Drone Network Proposal")
