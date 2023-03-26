@@ -1,0 +1,6 @@
+Company	Product	Flight Time (up to)	Charging time	Range (up to)	Cost	Type	Application
+Skysense	Skysense SIS-D	45 min	45 min	7 km	50,000$	Rotary	Inspections, surveillance, and monitoring
+Percepto	Percepto AIM	35 min	80 min	1 km	50,000$	Rotary	Inspections, surveillance, and security
+DroneVolt 	The DroneVolt DvS-3	30 min	60 min	5 km	35,000$	Rotary	Inspections, mapping, and surveying
+FlytBase	SkyBox	50 min	90 min	2 km	20,000$	Rotary	Inspections, surveillance, and mapping
+Fortress	Fortress UAV Wind Guard	180 min (3 hours)	300 min (5 hours)	50 km	30,000$	Wind	Inspections, surveillance, and monitoring in remote and harsh environments
