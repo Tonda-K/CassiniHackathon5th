@@ -2,7 +2,7 @@ README.md
 
 # Cassini Hackathon 5th edition
 
-Repository provides the geo-spatial analysis prepared for the purpose of __[CASSINI Hackathons - $5^{th} edition$: Space for Defence &amp; Security](https://taikai.network/cassinihackathons/hackathons/defence-security)__.
+Repository provides the geo-spatial analysis prepared for the purpose of __[CASSINI Hackathons - 5th edition: Space for Defence &amp; Security](https://taikai.network/cassinihackathons/hackathons/defence-security)__.
 
 ![](./images/mundi/croatia_border-bo1layer.png "Croatia Border Satellite")
 
